@@ -1,4 +1,5 @@
-Définition:
+## Définition:
+
 Les API REST ou RESTful sont l'un des types d'API les plus répandus. 
 Elles offrent de nombreux avantages et sont conçues pour exploiter 
 les protocoles existants. L'architecture REST est compatible avec la majorité des protocoles,
