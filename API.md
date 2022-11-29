@@ -8,4 +8,4 @@
 
 -Les API **externes** est équivalent à l'API ouverte, disponible aux monde entier. Ils sont accessibles par des personnes extérieurs à l'entreprise genre développeurs, prestataire.. 
 
--Les API interne 
+-Les API **internes** est à l'opposé de l'API ouverte, utiliser au sein d'une entreprise, pour connecter des systèmes et des données.
